@@ -5,7 +5,7 @@ import React from 'react';
 const Header = () => {
     return (
         <div className="list-books-title">
-          <h1>MyReads</h1>
+          <h1>Xord MyReads assignment by Danish Raza</h1>
         </div>
     )
 }
