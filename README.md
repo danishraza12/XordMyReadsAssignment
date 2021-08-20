@@ -1,6 +1,6 @@
 # Heroku deployment branch
 
-This branch has been used to deploy app to Heroku and does not contain yarn.lock file
+This branch has been used to deploy app to Heroku and does not contain the yarn.lock file
 
 # MyReads Project
 
