@@ -1,3 +1,7 @@
+# Heroku deployment branch
+
+This branch has been used to deploy app to Heroku and does not contain yarn.lock file
+
 # MyReads Project
 
 This project was created as part of Xord's Summer Blockship Program. I went through all the provided resources and also learned other things such as routing by myself from online platforms such as YouTube. 
